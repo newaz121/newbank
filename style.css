@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: beige;
+}
+.heading{
+    
+    text-align: center;
+    margin-top: 40px;
+}
+.login-box{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    box-shadow: 3px 4px 10px black;
+    border: 1px solid green;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.input-login{
+    width: 90%;
+    margin-left: 10px;
+    padding: 10px;
+    border: 1px solid tomato;
+    border-radius: 5px;
+    box-shadow: 3px 4px 10px black;
+}
+.login{
+    background-color: blueviolet;
+    color: white;
+    box-shadow: 3px 4px 10px black;
+    font-size: 1.4rem;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.btn{
+    text-align: center;
+}
+.balance{
+    width: 600px;
+    height: 200px;
+    background-color: blueviolet;
+    box-shadow: 3px 4px 10px black;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 100px;
+   
+}
+h1{
+    font-size: 3.3rem;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+.left-div{
+    width: 40%;
+    float: left;
+    background-color: blueviolet;
+    box-shadow: 3px 4px 10px black;
+    border-radius: 5px;
+    margin: 0 auto;
+    height: 300px;
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-left: 90px;
+}
+.deposit{
+    width: 90%;
+    padding: 15px;
+    border: 1px solid red;
+    margin-left: 10px;
+    box-shadow: 3px 4px 10px black;
+    border-radius: 10px;
+}
+.add{
+    background-color: rgb(255, 145, 0);
+    padding: 10px 40px;
+    color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 1.4rem;
+    box-shadow: 3px 4px 10px black;
+}
+.addbtn{
+    text-align: center;
+}
